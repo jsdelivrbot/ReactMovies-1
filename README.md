@@ -25,6 +25,6 @@ npm start
 ```
  ### Editeur de code
  
- J'utilise personnellemNnt Visual Code (léger  et riche en plugin et snippet  pour React et Redux)
+ J'utilise personnellement Visual Code (léger  et riche en plugin et snippet  pour React et Redux)
  https://code.visualstudio.com/
 
